@@ -4,7 +4,7 @@
 > chrome、firefox、phantomjs插件安装和版本说明
 > 基于selenium-java封装chrome、firefox、phantomjs实现爬虫
 
-##maven版本说明
+## maven版本说明
 
 ```xml
         <!-- +++|selenium|+++ -->
