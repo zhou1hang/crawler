@@ -1,6 +1,10 @@
 # crawler
 ---
 
+>  2017年一直以来在公司负责爬虫项目相关工程，主要业务有预定、库存、在开发中也遇到很多问题，随手记录一下，后续会持续更新。
+
+---
+
 > chrome、firefox、phantomjs插件安装和版本说明
 > 基于selenium-java封装chrome、firefox、phantomjs实现爬虫
 
