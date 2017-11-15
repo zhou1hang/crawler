@@ -84,7 +84,7 @@ public class FireFoxTest {
     }
 }
 ```
-##phantomjs
+## phantomjs
  
  7. 下载插件地址[phantomjs插件地址1](http://npm.taobao.org/dist/phantomjs/)、[phantomjs插件地址2](https://bitbucket.org/ariya/phantomjs/downloads/)、下载有些慢。phantomjs是没有界面的，所以只需要下载插件即可。
  8. 直接运行项目中示例
